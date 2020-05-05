@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Added by ketan9808
-shape_predictor_5_face_landmarks.dat
+Models/*
+
